@@ -6,5 +6,4 @@ O código implementa um jogo na qual um robozinho precisa soletar o máximo de d
 
 Veja um video do jogo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8TXSDrwVn2U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8TXSDrwVn2U/0.jpg)](https://www.youtube.com/watch?v=8TXSDrwVn2U)
